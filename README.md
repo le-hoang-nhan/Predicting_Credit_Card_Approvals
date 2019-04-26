@@ -6,7 +6,11 @@ Data from the Credit Card Approval dataset from the UCI Machine Learning Reposit
 http://archive.ics.uci.edu/ml/datasets/credit+approval
 
 	Build a machine learning model to predict if a credit card application will get approved.
+
 	Data:  Credit Card Approval dataset from the UCI Machine Learning Repository.
+
 	Handling the missing values: Impute the missing values with mean or the most frequent value.
+
 	Preprocessing the data: use LabelEncoder to non-numeric values to numeric; use MinMaxScaler to rescale.
+
 	Making predictions and evaluating performance: use Logistic Regression with GridSearchCV; confusion_matrix
