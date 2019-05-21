@@ -1,6 +1,4 @@
-If you can not open .ipynb file due to a GitHub error, you can open the file by following this link 
-
-
+If you can not open .ipynb file due to a GitHub error, you can open the file by following this link https://nbviewer.jupyter.org/github/le-hoang-nhan/Predicting_Credit_Card_Approvals/blob/master/Credit-card-approvals-predict.ipynb
 
 Predicting_Credit_Card_Approvals
 This is a project which I had done. 
