@@ -2,7 +2,7 @@ If you can not open .ipynb file due to a GitHub error, you can open the file by 
 
 See my presentation PowerPoint here: 
 Predicting Credit Card Approvals
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/ETrEbb1ks_RAg1YupuhZ4WIBtKRZToC0mFLcpQCaAMU3BQ?e=e5shXc
+https://drive.google.com/file/d/1BNmx_8NrEILdoygEoFurb8fC7S5t0X3r/view?usp=sharing
 
 Predicting_Credit_Card_Approvals
 This is a project which I had done. 
